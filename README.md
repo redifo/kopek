@@ -7,7 +7,7 @@
 nano setup_openbox_kiosk.sh
 ```
 
-#### 2. Copy and Paste the Updated Script Below
+#### 2. Copy and Paste the opebox sh file contents (or directly download the file and make it executable)
 
 #### 3. Make the Script Executable
 ```bash
