@@ -1,17 +1,27 @@
-# Create the Script
+## Updated Openbox Kiosk Setup Script
+
+### Instructions
+
+#### 1. Create the Script
+```bash
 nano setup_openbox_kiosk.sh
+```
 
-# Copy and Paste the Updated Script Below
+#### 2. Copy and Paste the Updated Script Below
 
-# Make the Script Executable
+#### 3. Make the Script Executable
+```bash
 chmod +x setup_openbox_kiosk.sh
+```
 
-# Run the Script with URL as Argument
-** sudo ./setup_openbox_kiosk.sh "https://your-website.com"
-
-# Reboot the Raspberry Pi
-sudo reboot
-
-# Usage Instructions
-# Run the script with sudo and provide the URL as an argument:
+#### 4. Run the Script with URL as Argument
+```bash
 sudo ./setup_openbox_kiosk.sh "https://your-website.com"
+```
+
+#### 5. Reboot the Raspberry Pi
+```bash
+sudo reboot
+```
+
+### Usage Instructions
